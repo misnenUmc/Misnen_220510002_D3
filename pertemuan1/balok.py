@@ -1,7 +1,7 @@
 # program  menghitung luas dan volume balok
 
 # Pertemuan 1
-# Programmer: Nana handre saputra
+# Programmer: Misnen
 # Tanggal:  22 Oktober 2023
 
 panjang = 10;
